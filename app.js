@@ -16,8 +16,10 @@ function exibirTextoNaTela(tag, texto){
 exibirTextoNaTela('h1', 'Jogo do numero secreto')
 exibirTextoNaTela('p', 'Escolha um numero entre 1 e 10')
 
+// FUNCAO SEM PARAMETRO E SEM RETORNO
 function verificarChute() {
-    console.log ("O botao foi clicado");
+    let chute = document.
+    console.log (numeroSecreto);
 }
 
 function gerarNumeroAleatorio() {
